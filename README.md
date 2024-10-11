@@ -5,3 +5,6 @@ So here i just give you the links
 
 [git-cheat-sheet](https://training.github.com/)
 [Github-quickstart](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+
+Github Copilot with STRG + I
